@@ -1,0 +1,19 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "OccasionChain - A Decentralized Event Creation System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Drin Musa",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.8",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2",
+    "hardhat": "^2.22.10"
+  }
+}
